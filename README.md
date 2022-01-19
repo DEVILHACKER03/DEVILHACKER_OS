@@ -7,11 +7,11 @@
 </p> 
 <br>
 
-- Name = "Avishek Bhattacharjee"
+- Name = "Sayed Faizan"
 
 - Class = "College"
 
-- Age = "16"
+- Age = "17"
 
 - Country = "🇮🇳"
 
